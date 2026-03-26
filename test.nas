@@ -1,8 +1,7 @@
 #bac1
   set bot_bac 248 127 15
-  cmd tempblock lava {bot_bac}
-  msg hiiiii
+  cmd &ftempblock lava {bot_bac}
+  msg &fhiiiii
   delay 1000
-  cmd place lava ~ ~10 ~
-  msg bac is the nicest
+  msg &dbac &fis the nicest
   
